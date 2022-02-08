@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "name": "yashira",
+            "age": 16,
+            "id": "e6e0f673-85d4-496c-bebc-321f2db7ad4c"
+        },
+        {
+            "name": "edward",
+            "age": 19,
+            "id": "b580e607-5168-4fc0-af8b-339e7b7bb023"
+        },
+        {
+            "name": "adrian",
+            "age": 14,
+            "id": "7ea9c5c6-07ea-48f3-8c5a-de90a2d2ab0f"
+        }
+    ]
+}
